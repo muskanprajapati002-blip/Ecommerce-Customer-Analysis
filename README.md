@@ -140,7 +140,7 @@ orders ◄───────────────────────�
 
 ### 7. Peak Ordering Times
 
-| Day | Hour | Orders ||||
+| Day | Hour | Orders |  
 |-----|------|--------|
 | Tuesday | 2PM | 1,124 |
 | Monday | 9PM | 1,118 |
