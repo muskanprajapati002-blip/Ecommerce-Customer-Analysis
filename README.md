@@ -1,6 +1,6 @@
 # E-Commerce Customer Analytics & Business Strategy
 **Tools:** MySQL · Terminal  
-**Dataset:** [Brazilian E-Commerce Dataset by Olist — Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
+**Dataset:** [Brazilian E-Commerce Dataset by Olist: Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
 **Scale:** 100,000+ orders · 7 relational tables · 96,096 unique customers · 3,095 sellers
 
 ---
@@ -96,7 +96,7 @@ orders ◄───────────────────────�
 | Regular | 23,339 | $83.55 | $1,950,017 | 13% |
 | Budget | 23,339 | $43.59 | $1,017,439 | 7% |
 
-**Finding:** The top 25% of customers (Premium segment) generate 59% of total platform revenue — nearly 9x more per customer than the Budget segment. Despite this, even Premium customers average only 1.09 orders, confirming the platform-wide retention crisis.
+**Finding:** The top 25% of customers (Premium segment) generate 59% of total platform revenue , nearly 9x more per customer than the Budget segment. Despite this, even Premium customers average only 1.09 orders, confirming the platform-wide retention crisis.
 
 ---
 
@@ -121,7 +121,7 @@ orders ◄───────────────────────�
 | Slow (15-21 days) | 16,169 | 4.12 ⭐ |
 | Very Slow (21+ days) | 11,519 | 3.06 ⭐ |
 
-**Finding:** Delivery speed is the strongest predictor of customer satisfaction. Orders taking 21+ days drop to 3.06 stars — a 1.35 point collapse from fast deliveries. With 11,519 orders in the Very Slow category, improving logistics for these orders would directly improve platform ratings.
+**Finding:** Delivery speed is the strongest predictor of customer satisfaction. Orders taking 21+ days drop to 3.06 stars , a 1.35 point collapse from fast deliveries. With 11,519 orders in the Very Slow category, improving logistics for these orders would directly improve platform ratings.
 
 ---
 
@@ -134,7 +134,7 @@ orders ◄───────────────────────�
 | Voucher | 5,775 | 5.56% | $65.70 | 1.00 |
 | Debit Card | 1,529 | 1.47% | $142.57 | 1.00 |
 
-**Finding:** Credit card payments account for 73.92% of transactions with an average of 3.51 installments — revealing that Brazilian customers rely heavily on installment purchasing. The maximum of 24 installments suggests long-term financing behaviour. Debit card at only 1.47% represents a growth opportunity.
+**Finding:** Credit card payments account for 73.92% of transactions with an average of 3.51 installments , revealing that Brazilian customers rely heavily on installment purchasing. The maximum of 24 installments suggests long-term financing behaviour. Debit card at only 1.47% represents a growth opportunity.
 
 ---
 
@@ -147,7 +147,7 @@ orders ◄───────────────────────�
 | Monday | 2PM | 1,096 |
 | Monday | 4PM | 1,094 |
 
-**Finding:** Peak ordering occurs on Monday and Tuesday between 11AM and 4PM — customers shop primarily during work hours. The platform should schedule flash sales and promotional emails between 10AM-4PM on weekdays for maximum conversion.
+**Finding:** Peak ordering occurs on Monday and Tuesday between 11AM and 4PM , customers shop primarily during work hours. The platform should schedule flash sales and promotional emails between 10AM-4PM on weekdays for maximum conversion.
 
 ---
 
@@ -161,14 +161,14 @@ orders ◄───────────────────────�
 | Sports & Leisure | $954,297 | $113.12 | 4.17 |
 | Computer Accessories | $892,280 | $116.30 | 3.98 |
 
-**Finding:** Beauty & Health leads revenue at $1.23M driven by high volume while Watches & Gifts commands the highest average price at $199. Bed & Bath despite ranking 3rd in revenue has the lowest satisfaction score (3.92) — suggesting quality or delivery issues worth investigating.
+**Finding:** Beauty & Health leads revenue at $1.23M driven by high volume while Watches & Gifts commands the highest average price at $199. Bed & Bath despite ranking 3rd in revenue has the lowest satisfaction score (3.92) : suggesting quality or delivery issues worth investigating.
 
 ---
 
 ## Business Recommendations
 
 **1. Implement a VIP Loyalty Program for Premium Customers**
-The top 25% of customers generate 59% of revenue but average only 1.09 orders. A targeted retention program — personalized offers, early access, dedicated support — for these 23,340 customers could significantly increase repeat purchase rate without new customer acquisition costs.
+The top 25% of customers generate 59% of revenue but average only 1.09 orders. A targeted retention program : personalized offers, early access, dedicated support — for these 23,340 customers could significantly increase repeat purchase rate without new customer acquisition costs.
 
 **2. Enforce Seller Performance Standards**
 Sellers with delivery times exceeding 21 days consistently score below 3.1 stars. Implementing a minimum 3.5 rating threshold and mandatory logistics improvement plans for underperforming sellers would directly improve platform reputation and customer satisfaction.
