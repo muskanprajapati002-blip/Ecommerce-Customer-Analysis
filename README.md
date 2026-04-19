@@ -140,7 +140,7 @@ orders ◄───────────────────────�
 
 ### 7. Peak Ordering Times
 
-| Day | Hour | Orders |
+| Day | Hour | Orders ||||
 |-----|------|--------|
 | Tuesday | 2PM | 1,124 |
 | Monday | 9PM | 1,118 |
@@ -209,14 +209,9 @@ DATEDIFF(), DATE_FORMAT(), DAYNAME(), HOUR()
 
 ```
 ecommerce-customer-analysis/
-│
-├── README.md                     ← You are here
-├── sql/
-│   ├── 1_create_and_load.sql     ← Database setup & data loading
-│   ├── 2_data_cleaning.sql       ← Data validation & quality checks
-│   └── 3_analysis.sql            ← 10 business analysis queries
-└── data/
-    └── (download from Kaggle link above)
+├── README.md
+└── sql/
+    └── Ecommerse_Customer_Analysis.sql
 ```
 
 ---
